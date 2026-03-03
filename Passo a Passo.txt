@@ -23,4 +23,7 @@
 22. Sair monotrilho;
 23. Descer até o metro;
 24. Pegar o metro;
-25. 
+25. Descer na próxima estação;
+26. Pegar o trem da CPTM;
+27. Descer na próxima estação;
+28. Andar até a escola.
